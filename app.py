@@ -2,7 +2,7 @@ import streamlit as st
 import main
 
 # App configs
-st.beta_set_page_config(
+st.set_page_config(
 page_title="Bike Sharing Demand Prediction",
 layout="centered",
 initial_sidebar_state="expanded",
