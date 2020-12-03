@@ -1,4 +1,4 @@
-# 🚴 Bike-Sharing-Demand-Prediction 🚴
+# 🚴 Bike Sharing Demand Prediction 🚴
 
 Try out the project here -- https://bike-demand-prediction.herokuapp.com/
 <br>
