@@ -22,9 +22,9 @@ st.markdown("<h1 align='center'><img src='https://storage.googleapis.com/kaggle-
 # SideBar
 st.sidebar.title("Explore notebooks📖")
 html = "<a href='https://www.google.com'></a>"
-st.sidebar.write("➡️Check out [Part 1 - EDA](https://nbviewer.jupyter.org/github/SarthakRana/Bike-Sharing-Demand-Prediction/blob/main/Bike_Sharing_EDA_Part1.ipynb)")
-st.sidebar.write("➡️Check out [Part 2 - Data Prep](https://nbviewer.jupyter.org/github/SarthakRana/Bike-Sharing-Demand-Prediction/blob/main/bike_sharing_data_preparation_Part2.ipynb)")
-st.sidebar.write("➡️Check out [Part 3 - Modelling](https://nbviewer.jupyter.org/github/SarthakRana/Bike-Sharing-Demand-Prediction/blob/main/bike-demand-prediction-modelling-part3.ipynb)")
+st.sidebar.write("➡️Check out [Part 1 - EDA](https://nbviewer.jupyter.org/github/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/bike_sharing_EDA_Part1.ipynb)")
+st.sidebar.write("➡️Check out [Part 2 - Data Prep](https://nbviewer.jupyter.org/github/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/bike_sharing_data_preparation_Part2.ipynb)")
+st.sidebar.write("➡️Check out [Part 3 - Modelling](https://nbviewer.jupyter.org/github/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/bike_sharing_modelling_Part3.ipynb)")
 
 st.sidebar.title("Follow ❤️ me on :")
 st.sidebar.write("➡️[Github](https://github.com/SarthakRana)")
