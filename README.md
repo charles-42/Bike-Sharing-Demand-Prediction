@@ -8,9 +8,9 @@ Try out the project here -- https://bike-demand-prediction.herokuapp.com/
 
 A Kaggle competition turned project, this project is divided into 3 parts :
 
-1. Exploratory Data Analysis <br>
-2. Data Preparation <br>
-3. Modelling <br>
+1. Exploratory Data Analysis - [check here](https://nbviewer.jupyter.org/github/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/bike_sharing_EDA_Part1.ipynb)<br>
+2. Data Preparation - [check here](https://nbviewer.jupyter.org/github/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/bike_sharing_data_preparation_Part2.ipynb)<br>
+3. Modelling - [check here](https://nbviewer.jupyter.org/github/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/bike_sharing_modelling_Part3.ipynb)<br>
 
 Bike sharing systems are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations 
 throughout a city. Using these systems, people are able rent a bike from a one location and return it to a different place on an as-needed basis.
