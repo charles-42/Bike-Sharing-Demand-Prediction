@@ -115,8 +115,8 @@ If your issue is not listed in the already open issues, you can open up a new on
 
 ## 6. To-do
 
-- [] Add don't know option for `Type of day` field in Web app and code its functionality.
-- [] Give option to skip `Temperature`, `Humidity` and `Windspeed` fields. In this case, we impute values from previous data.
+- [ ] Add don't know option for `Type of day` field in Web app and code its functionality.
+- [ ] Give option to skip `Temperature`, `Humidity` and `Windspeed` fields. In this case, we impute values from previous data.
 
 ## 7. Contributing
 
