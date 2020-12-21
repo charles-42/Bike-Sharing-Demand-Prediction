@@ -1,12 +1,11 @@
 # 🚴 Bike Sharing Demand Prediction 🚴
 
-## Try out the project here -- https://bike-demand-prediction.herokuapp.com/
-<br>
+### Try out the project here -- https://bike-demand-prediction.herokuapp.com/
 *(Please wait for 12-15 seconds for app to load initially)*
 <br><br>
 
 ![](https://knowledge.wharton.upenn.edu/wp-content/uploads/2017/09/092817_chinabikeshare.jpg)
-
+<br>
 A Kaggle competition turned project, this project is divided into 3 parts :
 
 1. Exploratory Data Analysis - [check here](https://nbviewer.jupyter.org/github/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/bike_sharing_EDA_Part1.ipynb)<br>
