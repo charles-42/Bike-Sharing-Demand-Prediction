@@ -107,6 +107,15 @@ port = $PORT\n\
 NOTE : To deploy on Heroku, you can either use Heroku CLI or Heroku Dashboard.
 You can follow the rest of the steps from here : https://www.youtube.com/watch?v=IWWu9M-aisA
 
+## 5. Output 
+
+Below are some screenshots from the project web app:
+
+![](https://github.com/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/Screenshots/Screenshot%20(56).png)
+![](https://github.com/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/Screenshots/Screenshot%20(57).png)
+![](https://github.com/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/Screenshots/Screenshot%20(58).png)
+![](https://github.com/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/Screenshots/Screenshot%20(59).png)
+
 ## 5. Roadmap
 
 See the open issues for a list of proposed features (and known issues)(if any).
