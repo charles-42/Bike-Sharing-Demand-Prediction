@@ -1,8 +1,9 @@
 # 🚴 Bike Sharing Demand Prediction 🚴
 
-Try out the project here -- https://bike-demand-prediction.herokuapp.com/
+## Try out the project here -- https://bike-demand-prediction.herokuapp.com/
 <br>
-*(Please wait for 10-12 seconds for app to load initially)*
+*(Please wait for 12-15 seconds for app to load initially)*
+<br><br>
 
 ![](https://knowledge.wharton.upenn.edu/wp-content/uploads/2017/09/092817_chinabikeshare.jpg)
 
@@ -26,7 +27,6 @@ You need to have the following dependecies before running the project:
 - streamlit `pip install streamlit`
 - matplotlib `pip install matplotlib`
 - seaborn `pip install seaborn`
--
 
 ## 2. Installing
 
