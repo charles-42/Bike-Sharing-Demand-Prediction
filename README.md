@@ -116,17 +116,17 @@ Below are some screenshots from the project web app:
 ![](https://github.com/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/Screenshots/Screenshot%20(58).png)
 ![](https://github.com/SarthakRana/Bike-Sharing-Demand-Prediction/blob/master/Screenshots/Screenshot%20(59).png)
 
-## 5. Roadmap
+## 6. Roadmap
 
 See the open issues for a list of proposed features (and known issues)(if any).
 If your issue is not listed in the already open issues, you can open up a new one.
 
-## 6. To-do
+## 7. To-do
 
 - [ ] Add don't know option for `Type of day` field in Web app and code its functionality.
 - [ ] Give option to skip `Temperature`, `Humidity` and `Windspeed` fields. In this case, we impute values from previous data.
 
-## 7. Contributing
+## 8. Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -136,7 +136,7 @@ Contributions are what make the open source community such an amazing place to b
   4. Push to the Branch.
   5. Open a Pull Request.
 
-## 8. Authors
+## 9. Authors
 
 NOTE : Your name will be added here if I merge your pull request.
 
